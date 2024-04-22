@@ -1,0 +1,1 @@
+# Containerized OpenAI chat endpoint based on Spring Boot
